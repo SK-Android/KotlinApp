@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinApp</string>
+    <string name="random_heading">here_is_a_random_number_between_0_and_%1d</string>
+
+</resources>
